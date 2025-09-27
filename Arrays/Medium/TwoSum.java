@@ -20,7 +20,7 @@ public class TwoSum {
      */
     public static void main(String[] args) {
         // Test case 1: Valid pair exists
-        int[] arr1 = {2, 7, 11, 15};
+        int[] arr1 = {2, 7, 11, 15,2};
         int target1 = 18;
         System.out.println("Test Case 1:");
         System.out.println("Array: [2, 7, 11, 15], Target: " + target1);
